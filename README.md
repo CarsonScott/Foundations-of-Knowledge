@@ -1,6 +1,6 @@
 # Foundations of Knowledge
 
-A theoretical outline of knowledge representation using patterns of change as a fundamental building-block for memory.
+A metaphysical theory of knowledge based on patterns of change.
 
 ## 1. Objects and Properties
 

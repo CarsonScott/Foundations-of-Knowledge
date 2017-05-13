@@ -22,6 +22,6 @@ For example, the visual system first detects edges- areas of contrasting light v
 
 ### 2.2 Temporal Patterns
 
-Change that occurs over time is represented as a temporal pattern. Temporal patterns are slightly more complicated than spatial patterns, because they deal with sequences of spatial patterns. Put simply, a temporal pattern takes a sequence of spatial patterns and compares each one to the previous pattern. Cause-and-effect is intuitively understood based on the fact changes in the past caused changes in the present, and changes in the present will cause changes in the future. In other words, each observed change is the result of some past change or event.
+Change that occurs over time is represented as a temporal pattern. Temporal patterns are slightly more complicated than spatial patterns, because they deal with sequences of spatial patterns. Put simply, a temporal pattern takes a sequence of spatial patterns and compares each one to the previous pattern. Cause-and-effect is intuitively understood based on the fact change in the past causes change in the present, and change in the present causes change in the future. Each observed change is the result of some past event.
 
 One example of temporal patterns in the visual system is the detection of movement. The eye detects patterns of light, i.e. spatial patterns, at each time-step. Movement is detected by comparing the patterns observed at each time-step with those observed at the previous time-step.  
